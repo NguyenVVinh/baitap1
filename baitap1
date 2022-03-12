@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main (){
+    cout << " Ho va ten: Nguyen Van Vinh" << endl;
+    cout << " MSSV: 106210043" << endl;
+    cout << " Lop: 21DTCLC1" << endl;
+    return 0;
+}
